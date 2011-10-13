@@ -1,0 +1,33 @@
+{text}
+5,0,7
+This is a test.  This is only
+a test.  If this had been an
+actual emergency, do you actually
+think that you would have seen
+Niagra falls?
+*
+{sound}
+c:\bin\adjstmts.voc
+{font}
+bold
+1
+{text}
+90,400,15
+HELLO, WORLD!
+*
+{picture}
+c:\scifair\watfall.pcx
+60,180
+{picture}
+watfall.pcx
+200,180
+{button}
+0,400,0,f
+Ahem!
+graphics.dem
+{button}
+0,500,0,c
+Test cmd
+mem > mem.dat
+{line}
+0,0,376,564,50

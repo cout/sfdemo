@@ -1,0 +1,13 @@
+{cmd}
+c:\scifair\bmpload c:\scifair\watfall.bmp w
+{text}
+5,5,5
+This is a test.  This is only
+a test.  If this had been an
+actual emergency do you really
+think that you would have seen
+Niagra falls?
+*
+{button}
+10,10,9
+Button1

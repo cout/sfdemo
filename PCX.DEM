@@ -1,0 +1,49 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+PCX
+{font}
+sanserif
+1
+{text}
+0,30,15
+     The PCX file format was created by
+Z-Soft, when they released PC
+Paintbrush, which even today remains
+one of the most popular PC drawing
+tools today.  It allows for images of
+up to 24-bits, or 16.7 million colors,
+which is approximately the limit of the
+number of colors the human eye can see. 
+The PCX format supports RLE, or run
+length encoding.  This means that
+whenever a series of bytes is EXACTLY
+the same, this can be compressed by
+merely storing the color of those
+bytes, and the number of bytes are to
+be displayed in that color.
+     RLE compression can often be quite
+effective.  RLE compression is even
+used in CCITT Group 3 one-dimensional
+fax compression.  Unfortunately, the
+more colors that are added to an RLE
+compressed picture, the lower the 
+compression ratio.  Often this results
+in files larger than the original.
+*
+{button}
+320,220,26,n
+Up
+none
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,26,n
+Down
+none

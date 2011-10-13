@@ -1,0 +1,42 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+The LZW Patent
+{font}
+sansserif
+1
+{text}
+0,30,15
+LZW compression, the compression used
+in GIF files, is patented by Terry
+Welch of Unisys, patent #4,558,302.
+For the same algorithm, Miller and
+Wegman of IBM own patent #4,814,746.
+In January 1993, Unisys discovered
+that CompuServe was using the LZW
+compression in their GIF specification,
+and reached an agreement with CompuServe
+on June 21, 1994 that Compuserve
+pay Unisys a royalty of 1% of the
+average selling price it charges for
+its software.  Unisys has as of
+January 10, 1995 required all
+commercial users of its patented
+algorithm to obtain a license.
+*
+{button}
+320,220,26,n
+Up
+none
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,26,n
+Down
+none

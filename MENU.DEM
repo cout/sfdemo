@@ -1,0 +1,57 @@
+{wall}
+0,0,20
+{font}
+sansserif
+1
+{text}
+20,20,15
+This project...
+*
+{button}
+20,80,0,f
+Abstract
+abstract.dem
+{button}
+120,80,0,f
+Graphs
+graphs.dem
+{button}
+220,80,0,f
+View Pictures
+graphics.dem
+{button}
+20,140,0,f
+Acknowledgements
+ack.dem
+{text}
+20,200,15
+File Formats...
+*
+{button}
+20,260,0,f
+PCX Files
+pcx.dem
+{button}
+120,260,0,f
+BMP Files
+bmp.dem
+{button}
+220,260,0,f
+TGA Files
+tga.dem
+{button}
+20,320,0,f
+GIF Files
+gif.dem
+{button}
+120,320,0,f
+Fractal Files
+fractal.dem
+{text}
+20,380,15
+Information on...
+*
+{button}
+20,460,0,f
+The Unisys LZW Patent
+lzw.dem

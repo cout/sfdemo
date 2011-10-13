@@ -1,0 +1,49 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+Abstract
+{font}
+sanserif
+1
+{text}
+0,30,15
+     This purpose of this project was to
+find the amount of time it takes to
+load various types of graphics files. 
+Each type of file, or format, uses a
+different compression scheme, each
+designed for a specific purpose. 
+However, due to the high amounts of
+computing power available today, users
+often forget the proper use of each
+format.
+     Three pictures were chosen in order
+to accurately test the formats on a
+wide variety of images.  A grayscale
+picture of a waterfall, a hand-drawn
+picture of a dinosaur, and a ray-traced
+picture of some balls were each chosen,
+because of the amount of variance in
+color throughout the picture, the
+amount of dithering used in the
+picture, and the total number of
+colors.
+     First, various programs were written
+to load and display each picture.  A
+*
+{button}
+320,220,26,n
+Up
+none
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,0,f
+Down
+abstract.de1

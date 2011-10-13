@@ -1,0 +1,59 @@
+{wall}
+0,0,20
+{picture}
+watfall.pcx
+0,0
+{picture}
+dinosaur.pcx
+0,199
+{picture}
+raytrace.pcx
+0,384
+{font}
+bold
+1
+{text}
+105,-50,15
+WATFALL
+*
+{text}
+105,149,15
+DINOSAUR
+*
+{text}
+105,334,15
+RAYTRACE
+*
+{font}
+sansserif
+1
+{text}
+105,17,15
+This file was chosen because
+it has no dithering, blending
+of gray shades, and few sharp
+changes in color throughout the
+picture.  (Some dithering may
+actually be seen here because
+of the video mode used).
+*
+{text}
+105,216,15
+This file was chosen because it
+has no dithering, no blending of
+the few colors in the picture, and
+some sharp changes in color
+throughout the picture.
+*
+{text)
+105,401,15
+This file was chosen because it
+has some dithering, much blending
+of a large number of colors, and
+many sharp changes in color
+throughout the picture.
+*
+{button}
+320,510,0,f
+Menu
+main.dem

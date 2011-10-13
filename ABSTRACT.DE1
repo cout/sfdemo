@@ -1,0 +1,49 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+Abstract
+{font}
+sansserif
+1
+{text}
+0,30,15
+program to time these programs was also
+written.  Each program was timed in
+loading each picture ten times, and
+then the mode was taken.  In this case,
+the mode can be used, because the
+computer is accurate enough to report
+the same answer most of the time.
+     It had been predicted that because
+of the smaller size on disk, meaning
+less disk accesses, the GIF files would
+take the least amount of time to load. 
+The PCX files were predicted to take a
+close second for the same reason. 
+Fractal image files, though small in
+size were predicted to come in third,
+because of the large number of
+calculations.  Fourth was predicted to
+be the TGA and BMP formats, because of
+their large sizes.
+     However, this was not the case.  The
+PCX files were the fastest most of the
+time, probably because there was a
+minimal amount of processing required
+*
+{button}
+320,220,0,f
+Up
+abstract.dem
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,0,f
+Down
+abstract.de2

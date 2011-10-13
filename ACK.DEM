@@ -1,0 +1,42 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+Acknowledgements
+{font}
+sansserif
+1
+{text}
+0,30,15
+
+The Graphics Interchange Format (c) is
+the Copyright of Compuserve Incorporated.
+GIF(sm) is a Service Mark property of
+Compuserve Incorporated.
+
+Fractal Transform and Iterated Systems
+are trademarks of Iterated Systems.
+
+Special thanks to the following people
+for providing assistance in locating
+sources of information: Dr. Jack
+Bresenham, Winthrop University; Dr. Jim
+Nelson, Clemson University; Louisa
+Barnsley, Iterated Systems Incorporated;
+Greg Roelofs, Info-ZIP.
+*
+{button}
+320,220,26,n
+Up
+none
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,26,n
+Down
+none

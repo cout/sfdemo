@@ -1,0 +1,36 @@
+PIC and CGM files
+
+     The PIC file format, which is now
+obsolete and therefore was not tested,
+was the format originally created by
+Lotus, to be used with their
+spreadsheet software, 1-2-3, in saving
+graphs of data to disk.  Despite its
+limited abilities, the PIC format was a
+few years ago closer than any other
+format to a standard for business
+graphics.  Also, this format was
+vector-based rather than raster-based,
+meaning that the format stored shapes
+onto disk rather than individual
+pixels.  A different PIC format is also
+used by PC Paint, and is raster-based
+(or pixel-based), but this format is
+not widely used.
+     In 1988, publishers began to accept
+a standard developed by ANSI (American
+National Standards Institute), called
+CGM, or Computer Graphics Metafile. 
+This like the PIC format, is a vector-
+based format.  The CGM format has much
+potential, as Integrate '88 (an
+exhibition showing off CGM as a new
+graphics standard) has shown.
+     Both of these formats are vector-
+based.  This means that photographs and
+scanned images are not stored
+efficiently.  However, drawings by hand
+are loaded very quickly, and take up
+much less space on disk than a similar
+raster-based file.
+

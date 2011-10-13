@@ -1,0 +1,41 @@
+{wall}
+0,0,20
+{font}
+sansserif
+1
+{text}
+20,20,15
+Select a file format to test:
+*
+{button}
+20,80,0,c
+PCX
+call test pcx
+{button}
+20,140,0,c
+BMP
+call test bmp
+{button}
+20,200,0,c
+TGA
+call test tga
+{button}
+20,260,0,c
+GIF
+call test gif
+{button}
+20,320,0,c
+Fractal
+call test fractal
+{button}
+320,220,26,n
+Up
+none
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,26,n
+Down
+none

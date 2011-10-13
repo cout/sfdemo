@@ -1,0 +1,43 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+The New File Formats
+{font}
+sansserif
+1
+{text}
+0,30,15
+
+  - GIF24, based on the PNG format, is
+    being developed by CompuServe in
+    cooperation with the Internet
+    community to provide a lossless
+    format available to the public free
+    of charge.  It uses the compression
+    technology found in the freeware
+    Info-Zip program, and supports
+    24-bit color.
+
+  - FGF, often called GIF95a, is a
+    proposed format which uses the
+    "deflate" routine as its basis for
+    compression.  It also supports
+    24-bit color.  It is not, however,
+    widely supported.
+*
+{button}
+320,220,0,f
+Up
+new.dem
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,0,f
+Down
+new.de2

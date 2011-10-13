@@ -1,0 +1,50 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+GIF
+{font}
+sansserif
+1
+{text}
+0,30,15
+     The GIF (Graphics Interchange
+Format) was created in 1987 by
+Compuserve, when a new method of
+graphics compression was required in
+order to reduce online traffic.  The
+GIF file format can contain up to 256
+colors, and up to 64,000 pixels. 
+Unlike previous file formats, the GIF
+files used LZW (Lempil-Ziv and Welch)
+compression, a form of compression
+developed in the 1960's.  This is known
+as string-table compression.  This
+works by keeping a table in memory of
+commonly used strings, or sets of
+characters.  This allows one to
+compress a file much better than other
+compression schemes could give, because
+repeating patterns can be stored,
+rather than just repeating bytes or
+pixels. However, LZW compression relies
+on patterns being in the picture in order to
+compress the image well, therefore
+random or chaotic data can wreak havoc
+on an LZW compressor.
+*
+{button}
+320,220,26,n
+Up
+none
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,26,n
+Down
+none

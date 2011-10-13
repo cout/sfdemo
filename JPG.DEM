@@ -1,0 +1,30 @@
+JPG Files
+
+     The JPEG (Joint Photographic Experts
+Group) first convened in 1986 in order
+to find the best method for image
+compression and to get it adopted as an
+international standard.  Unlike LZW or
+RLE compression, the DCT (Discrete
+Cosine Transform) compression that is
+used in the JPG file is "lossy"; in
+other words, the original image is not
+EXACTLY the same image, but it is very
+close.
+     DCT works by breaking an image into
+8 by 8 blocks and then deciding what
+information to throw out.  This
+information that is thrown out can be
+reconstructed, with the other pixels
+that are left intact.  Also unlike
+lossless compression methods, rather
+than looking at the picture as a set of
+pixels, DCT looks at the picture as a
+series of 64 cosine functions.  The DCT
+method is limited however; about a 25
+to 1 compression ratio is the highest
+feasible compression available.  Higher
+compression ratios are subject to
+Gibb's phenomenon, which is the
+blockiness that results.
+

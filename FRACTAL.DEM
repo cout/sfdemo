@@ -1,0 +1,49 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+Fractal
+{font}
+sansserif
+1
+{text}
+0,30,15
+     The Fractal compression standard was
+developed by Michael Barnsley and
+Louisa Anson.  The fractal compression
+method, like the JPG compression
+standard, is lossy.  However, much
+higher compression ratios are possible
+through what Iterated Systems calls
+"resolution independence."  This means
+that a file compressed at a low
+resolution will look relatively as good
+at a high resolution.  This differs from
+other compression methods, in which a
+certain blockiness develops.
+     Simply put, a fractal is an
+infinitely magnifiable picture that can
+be produced with simple management of
+complex numbers.  Complex numbers are
+combinations of real and imaginary
+numbers, whereas imaginary numbers are
+odd roots of negative numbers.  The
+term fractal was coined by Benoit
+Mandelbrot when he was studying Julia
+sets.
+*
+{button}
+320,220,26,n
+Up
+none
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,0,f
+Down
+fractal.de1

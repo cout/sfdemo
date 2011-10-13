@@ -1,0 +1,45 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+TGA
+{font}
+sansserif
+1
+{text}
+0,30,15
+     The Truevision Targa board was one
+of the first high-end display devices
+that could display 24 bits of color.
+This means that it can display "true
+color," or simply, that it can display
+16.7 million colors, which is approximately
+the extent of the ability of the human
+eye.  In addition to the Targa board,
+Truevision developed software capable
+of operating with the board.  Along
+with this software came the TGA (Targa)
+format.  Because 24-bit files are
+rarely seen that are simple drawings,
+the TGA format supports RLE
+compression (a very simple compression
+scheme -- see PCX Files), but it is almost
+never used.  Instead the pixels are stored
+in sequential order, making the file easy
+to load.
+*
+{button}
+320,220,26,n
+Up
+none
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,26,n
+Down
+none

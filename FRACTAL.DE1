@@ -1,0 +1,44 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+Fractal
+{font}
+sansserif
+1
+{text}
+0,30,15
+     In the fractal compression program
+used in this project, domain regions
+are broken into 4 by 4 pixel squares. 
+These squares are then converted into a
+formula of complex numbers.  This is
+called an affine transformation.  Among
+the possible affine transformations
+used by the program are simple
+translations, rotations, and flips.
+     The fractal compression program
+used in this project is copyrighted by
+Iterated Systems and is covered by
+various U.S. and worldwide patents. 
+Use of this code for other than sample
+purposes requires a licensing agreement
+from Iterated Systems.  It is also
+available as FRACTAL.ZIP from Iterated
+Systems.
+*
+{button}
+320,220,0,f
+Up
+fractal.dem
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,26,n
+Down
+none

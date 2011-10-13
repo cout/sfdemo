@@ -1,0 +1,37 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+BMP
+{font}
+sansserif
+1
+{text}
+0,30,15
+     The BMP file format was created when
+Microsoft released Windows.  It is a
+fairly rudimentary file format,
+providing RLE compression, a very simple
+compression scheme (see PCX Files).
+However, Microsoft Windows and IBM OS/2,
+the programs the format was designed for,
+do not support the compression options
+available.  Unlike most formats, the BMP
+file is stored upside-down and backwards,
+which makes it harder to load.
+*
+{button}
+320,220,26,n
+Up
+none
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,26,n
+Down
+none

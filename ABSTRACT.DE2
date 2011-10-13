@@ -1,0 +1,47 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+Abstract
+{font}
+sansserif
+1
+{text}
+0,30,15
+to load the images.  BMP and TGA files
+were just about the same, with only
+slight differences in loading times,
+probably due to the fact that almost no
+processing was required in order to
+load these images, as they were not
+compressed.  Finally, the GIF files
+took fourth, with fractal files more
+than twice as slow.  These files both
+got the greatest compression (smallest
+resulting file size), but require large
+amounts of processing in order to
+decode.
+     In game programming, in order to
+make the game as fast and small as
+possible, data from this project might
+be used.  Also, high definition
+television sets need to send a lot of
+information in a small amount of time. 
+Compression is one way of accomplishing
+this.
+*
+{button}
+320,220,0,f
+Up
+abstract.de1
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,26,n
+Down
+none

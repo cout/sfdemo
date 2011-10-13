@@ -1,0 +1,46 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+The New File Formats
+{font}
+sansserif
+1
+{text}
+0,30,15
+When CompuServe announced in December
+1994 that it was going to change its
+policy for the GIF specification, (see
+the Unisys LZW patent) a large uproar
+was heard among the Internet community.
+This uproar was accompanied by many
+questions.  Many people wondered if the
+GIF format was replaceable, and, if so,
+which format should be used to replace
+it.  Here is a summary of some of the
+proposed formats:
+
+  - JPEG is a lossy format, similar
+    to fractal compression used in this
+    project.  It allows for 24-bit color,
+    and achieves file sizes up to 5 times
+    smaller than GIF files.  The
+    compressor uses the Discrete Cosine
+    Transform, followed by Huffman
+    encoding.
+*
+{button}
+320,220,26,n
+Up
+none
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,0,f
+Down
+new.de1

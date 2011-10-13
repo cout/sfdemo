@@ -1,0 +1,43 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+The World Wide Web
+{font}
+sansserif
+1
+{text}
+0,30,15
+The World Wide Web is a protocol on the
+Internet by which one can view pictures,
+read documents, and throw snowballs at
+famous scientists, among other things.
+Most of the pictures found on the World
+Wide Web are in the GIF format.  When
+CompuServe announced in December 1994
+that it was going to change its policy
+for the GIF specification, (see the
+Unisys LZW patent) a large uproar was
+heard among the Internet community.
+This uproar was accompanied by many
+questions.  CompuServe planned to make
+the format proprietary.  However, Unisys
+has allowed owners of these files to
+distribute them without a fee, provided
+that they are distributed without profit.
+*
+{button}
+320,220,26,n
+Up
+none
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,26,n
+Down
+none

@@ -1,0 +1,40 @@
+{wall}
+0,0,20
+{font}
+bold
+1
+{header}
+0,15
+The New File Formats
+{font}
+sansserif
+1
+{text}
+0,30,15
+  - The PDS format is the format used
+    by NASA on its CD-ROMs.  It is
+    patent-free, and uses Huffman
+    encoding.  It is supported by
+    a variety of programs, but there
+    are few images in this format.
+
+  - Other formats also exist, but there
+    is such an influx of these formats
+    that there are too many to list
+    here.  Try channel #compress on the
+    Internet, or better yet, try the
+    Usenet newsgroup comp.compression
+    for more information.
+*
+{button}
+320,220,0,f
+Up
+new.de1
+{button}
+320,260,0,f
+Menu
+main.dem
+{button}
+320,300,26,n
+Down
+none
